@@ -63,3 +63,10 @@ body{
 .controls .controls__range{
     margin-bottom: 30px;
 }
+.controls__range .rangeValue{
+    background-color: white;
+    padding-left: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    font-weight: 500;
+    font-size: 12px;
+}
